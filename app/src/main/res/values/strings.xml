@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">UI Lover</string>
+    <string name="uiLoverText">UiLover</string>
+    <string name="activity_text">Start Your Activity with us</string>
+    <string name="login_text">Please Login</string>
+    <string name="email_text">Enter Your EMail</string>
+    <string name="password_text">Enter Your Password</string>
+    <string name="confirm_password_text">Enter Confirm Password</string>
+    <string name="forgot_password_text">Don\'t Remember Password? Recovery it</string>
+    <string name="or_login_with">Or Login with</string>
+    <string name="login">Login</string>
+    <string name="no_account_text">Don\'t have an account?</string>
+    <string name="signup">Signup</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="top_header">top header image</string>
+    <string name="bottom_footer">bottom footer image</string>
+    <string name="vision_for">A vision for the future with our channel</string>
+    <string name="fields_can_not_be_left_unfilled">Field can not be left unfilled</string>
+    <string name="wrong_email_or_password">Wrong Email or password</string>
+    <string name="password_should_contain">Password should contain minimum 6 and maximum 12 letters</string>
+    <string name="password_and_confirm">Password and confirm password should be the same</string>
+    <string name="enter_your_email">Enter your email correctly</string>
+    <string name="sorry_couldnt_signup">Sorry you couldn\'nt signup</string>
+    <string name="profile_picture">file picture</string>
+    <string name="banner_image">banner image</string>
+    <string name="discount">Dicont</string>
+    <string name="percentage">30%</string>
+    <string name="banner_title">until 20 june-30 june</string>
+    <string name="profile_icon">profile icon</string>
+    <string name="fav_icon">fav icon</string>
+</resources>

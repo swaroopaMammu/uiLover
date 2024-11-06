@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_nav_graph"
+    app:startDestination="@id/loginSignUpScreen">
+
+    <fragment
+        android:id="@+id/homeScreen"
+        android:name="com.example.uilover.view.HomeScreen"
+        android:label="HomeScreen" />
+    <fragment
+        android:id="@+id/loginSignUpScreen"
+        android:name="com.example.uilover.view.LoginSignUpScreen"
+        android:label="LoginSignUpScreen" >
+        <action
+            android:id="@+id/action_loginSignUpScreen_to_homeScreen"
+            app:destination="@id/homeScreen"
+            app:popUpTo="@id/loginSignUpScreen"
+            app:popUpToInclusive="true"
+            />
+    </fragment>
+</navigation>
